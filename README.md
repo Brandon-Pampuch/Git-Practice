@@ -5,3 +5,5 @@
 *shorts
 
 *say hello
+
+*reset commit
