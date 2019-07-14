@@ -7,3 +7,7 @@
 *say hello
 
 *reset commit
+
+second branch
+
+second commit on second branch
