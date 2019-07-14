@@ -1,0 +1,5 @@
+##yolo
+
+*eat
+*my
+*shorts
